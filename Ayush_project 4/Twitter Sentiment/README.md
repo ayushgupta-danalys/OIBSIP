@@ -112,6 +112,7 @@ and social media trends.
 ## Files in this Folder
 
 * Twitter_Sentiment_Analysis.ipynb - main notebook
+* screenshots
 * README.md - project documentation
 
 ## How to Run
