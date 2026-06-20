@@ -108,6 +108,7 @@ The project uses Natural Language Processing (NLP) and Machine Learning techniqu
 ## Files in this Folder
 
 * Play_Store_Sentiment_Analysis.ipynb - main notebook
+* screenshots
 * README.md - project documentation
 
 ## How to Run
