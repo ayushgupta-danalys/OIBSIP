@@ -1,45 +1,33 @@
 # Oasis Infobyte Data Analytics Internship
 
-This repository contains the projects completed during my Data Analytics Internship at Oasis Infobyte.
-
-## Track
-Data Analytics
+This repository contains my completed projects during the Oasis Infobyte Data Analytics Internship.
 
 ## Intern
 Ayush Kumar Gupta
 
-## Projects Completed
+## Track
+Data Analytics
 
-### Level 1
+## Completed Projects
 
-1. Exploratory Data Analysis on Retail Sales Data
+### 1. Exploratory Data Analysis on Retail Sales Data
 - Data cleaning
 - Exploratory analysis
-- Visualization
+- Data visualization
 - Business insights
 
-
-2. Customer Segmentation using K-Means Clustering
-- Customer behavior analysis
-- Feature engineering
-- Clustering
-- Segment analysis
-
-
-3. Data Cleaning Project
-- Handling missing values
-- Removing duplicates
+### 2. Customer Segmentation using K-Means Clustering
 - Data preprocessing
+- Customer behavior analysis
+- Machine learning clustering
 
+### 3. House Price Prediction using Linear Regression
+- Data preprocessing
+- Model training
+- Regression analysis
+- Model evaluation
 
-### Level 2
-
-4. House Price Prediction using Linear Regression
-
-5. Wine Quality Prediction
-
-
-## Tools & Technologies
+## Tools Used
 
 - Python
 - Pandas
@@ -48,8 +36,3 @@ Ayush Kumar Gupta
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-
-
-## Objective
-
-To apply data analytics and machine learning techniques on real-world datasets and generate meaningful insights.
